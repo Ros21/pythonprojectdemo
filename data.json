@@ -1,0 +1,10 @@
+{
+  "name": "Alice",
+  "age": 25,
+  "is_student": false,
+  "skills": ["Python", "Django"],
+  "address": {
+    "city": "Kathmandu",
+    "zip": "44600"
+  }
+}
